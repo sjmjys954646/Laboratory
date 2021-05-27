@@ -1,0 +1,25 @@
+	inception v1
+Xception참고
+https://stephan-osterburg.gitbook.io/coding/coding/ml-dl/tensorfow/ch3-xception/load-and-explore-the-imagenet-dataset
+
+다른사람의 구현?
+https://gist.github.com/joelouismarino/a2ede9ab3928f999575423b9887abd14
+
+다른사람의 구현
+https://github.com/hskang9/Googlenet/blob/master/keras/googlenet.py
+
+이사람 구현은 잘 작동함
+https://nevfiasco.tistory.com/6
+
+ImageNet_Utils github Page
+https://github.com/tzutalin/ImageNet_Utils
+
+pytorch 
+https://github.com/pytorch/vision/blob/master/torchvision/models/googlenet.py
+
+https://stackoverflow.com/questions/15345790/scipy-misc-module-has-no-attribute-imread
+misc.imread 는 현재 deprecated 상태이므로 imageio.imread를 쓰시오
+
+
+오늘한일 : Imagenet에서 2014년대회 이미지 받아옴
+이미지를 픽셀화? 하는 : 1단계 수행

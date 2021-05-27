@@ -1,0 +1,6 @@
+1. convolution
+2. softmax 3개만 쓴이유
+3. googlenet model 표 model summary
+4. receptive field
+5. auxiliary classifier이 구체적으로 뭔지
+6. detail 첨가

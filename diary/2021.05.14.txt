@@ -1,0 +1,5 @@
+1. 용어 공부 seperable convolution
+2. ref 논문 공부
+residual connection
+3. min||Ax-b||+L||x-x0||
+4.running rate

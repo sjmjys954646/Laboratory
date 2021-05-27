@@ -1,0 +1,18 @@
+1. 
+inception module
+maxpooling다음에 1*1convolution 이 들어가는 이유는 
+maxpooling은 채널수를 조정할 수 없기 때문
+
+2. auxiliary classifier - 4a, 4d module 에 있는 softmax
+expect to encourage disrimination in the lower stages in the classifier,
+increase the gradient signal that gets propagated back, and provied
+additional regularization
+
+의문 1. maxpooling 을 기준으로 inception의 단계를 나눔?
+의문 2. bias와 kernel initializer의 정확한 사용
+의문 3. concatenate 할때 axis?
+의문 4. model의함수에서 인자로 x x1 x2를 보내는데 
+auxilary classifier를 이렇게 쓰는것인가?
+의문 5. 필터의 개수를 분배하는것은 무슨 기준으로 나눌까?
+의문 6. 오류 해결
+의문 7. 이렇게 나눔으로써 어떻게 recognition 하는거
