@@ -1,0 +1,9 @@
+https://keras.io/examples/vision/mnist_convnet/
+INCEPTION
+비교하기
+MNIST + cifar_10
+epoch에 따른 loss의 변화 accuracy의 변화
+VISUALIZE
+
+/255로 나눔으로써
+0~1로 만드는과정 normalization 이라고함

@@ -1,0 +1,41 @@
+focal loss for dense object detection review
+	https://ropiens.tistory.com/83
+
+1stage 2stage detector
+	https://ganghee-lee.tistory.com/34
+
+IOU
+	https://ballentain.tistory.com/12
+
+Classification, Detection, Semantic Segmentation
+	https://m.blog.naver.com/laonple/220958109081
+
+Feature Pyramid Network
+	https://yeomko.tistory.com/44
+
+SGD
+	https://mangkyu.tistory.com/62
+
+COCO
+	https://ukayzm.github.io/cocodataset/
+
+Positive Negative 
+	https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative
+
+AP = Average Precision
+	https://light-tree.tistory.com/124
+	https://cocodataset.org/#detection-eval
+
+OHEM
+	https://deep-learning-study.tistory.com/501
+
+FG, BG
+	https://eehoeskrap.tistory.com/398
+	https://chacha95.github.io/2020-02-26-Object-Detection3/
+
+Anchor
+	https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=infoefficien&logNo=221229808775
+
+retinanet code
+	https://github.com/fizyr/keras-retinanet/blob/master/keras_retinanet/models/retinanet.py
+	https://github.com/yhenon/pytorch-retinanet/tree/master/retinanet
