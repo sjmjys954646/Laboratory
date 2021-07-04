@@ -1,0 +1,27 @@
+To- Know
+1. CNN - dimensionn 의미?
+2. loss -function ?
+3. receptive field?
+4. detection box 만드는 원리
+
+
+segmantic segmentation : pixel by pixel 분할
+
+activation 함수
+softmax : 확률에의한출력시
+sigmoid : 출력 0~1 rescaling
+
+image - high frequency - differencing
+         - low frequency - smoothing
+
+Super resolution 
+|| L - (H*G) ||2 
+	    f -> Fravanious norm
+H = high resolution image
+G = Gausian filter
+L = low resolution image
+
+min||L-(H*G)||2 + R(H) - prior information
+	    f 
+-> 2(L - H*G)*G^H = 0
+(미분)            Deconvolution
