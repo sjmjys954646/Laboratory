@@ -1,0 +1,18 @@
+FCN
+https://m.blog.naver.com/laonple/220958109081
+
+FCN == 1*1?
+https://blog.naver.com/laonple/220752877630
+
+Dilated Convolution
+https://3months.tistory.com/213
+
+OKS
+https://glee1228.tistory.com/7
+
+
+deforemation <=> detection
+
+receptive field
+
+(x)convolution

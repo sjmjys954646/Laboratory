@@ -1,0 +1,8 @@
+교수님 요청
+
+이윤수:  scale 별 loss function의 존재와 최종 결과에 대해서만 존재하는 loss function 의 경우에 따른 네트워크 결과와 RetinaNet의 후속 논문인 RetinaMask 관련 논문 발표 (첨부파일)
+
+https://keras.io/examples/vision/retinanet/
+
+https://csm-kr.tistory.com/5 
+-> 이사람 말을 참고

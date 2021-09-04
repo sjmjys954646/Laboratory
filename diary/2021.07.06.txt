@@ -1,0 +1,14 @@
+exacerbate 더욱심하게하다
+allusion 암시
+
+instance segmentation
+https://ganghee-lee.tistory.com/44
+
+running mean 이동평균
+
+Clipping is a form of distortion that limits a signal once it exceeds a threshold.
+
+mask rcnn
+https://mylifemystudy.tistory.com/82
+roi align
+https://ganghee-lee.tistory.com/40

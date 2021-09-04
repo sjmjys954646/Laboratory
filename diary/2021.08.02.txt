@@ -1,0 +1,5 @@
+U-net
+https://velog.io/@guide333/U-Net-%EC%A0%95%EB%A6%AC
+
+U-net like Architecture
+https://keras.io/examples/vision/oxford_pets_image_segmentation/
